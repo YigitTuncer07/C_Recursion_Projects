@@ -1,7 +1,9 @@
+//Name = Yigit Tuncer
+//Student ID = 150121073
+
 #include <stdio.h>
 
 int superDigit(int number);
-
 int getDigits(int n);
 
 //Main method
